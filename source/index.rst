@@ -1,5 +1,5 @@
 Bozzz RedBot
-========
+============
 
 My Small Fork of the Red Discord Bot
 
@@ -7,7 +7,7 @@ DISCLAIMER
 
    I do not own the Red Discord Bot,
    all credit goes to https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
-   
+
 Features
 --------
 
@@ -24,7 +24,7 @@ Install Red by visiting:
 Contribute
 ----------
 
-- Discord Server: https://discord.gg/kJ5My6df 
+- Discord Server: https://discord.gg/kJ5My6df
 - Source Code: https://github.com/TheBozzz34/readthedocs
 
 Support
