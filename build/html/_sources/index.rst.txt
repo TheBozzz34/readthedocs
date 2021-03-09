@@ -38,8 +38,15 @@ Commands
 Contribute
 ----------
 
-- Discord Server: https://discord.gg/kJ5My6df
-- Source Code: https://github.com/TheBozzz34/readthedocs
+- Discord Server_
+
+.. _Server: https://discord.gg/kJ5My6df
+
+- Source Code_
+
+.. _Code: https://github.com/TheBozzz34/readthedocs
+
+
 
 Support
 -------
