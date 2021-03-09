@@ -6,7 +6,8 @@ My Small Fork of the Red Discord Bot
 DISCLAIMER
 
    I do not own the Red Discord Bot,
-   all credit goes to https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
+   all credit goes to the contributors_
+.. _contributors:  https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
 
 Features
 --------
@@ -19,7 +20,17 @@ Installation
 
 Install Red by visiting:
 
-    https://github.com/Cog-Creators/Red-DiscordBot
+    The GitHub_
+.. _GitHub: https://github.com/Cog-Creators/Red-DiscordBot
+
+
+
+Commands
+
+--------
+
+Commands can be accessed here_
+.. _here: https://bozzzredbot.readthedocs.io/en/latest/commands.html
 
 Contribute
 ----------
