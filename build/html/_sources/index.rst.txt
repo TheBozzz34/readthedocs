@@ -7,7 +7,7 @@ DISCLAIMER
 
    I do not own the Red Discord Bot,
    all credit goes to the contributors_
-.. _contributors:  https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
+.. _contributors: https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
 
 Features
 --------
