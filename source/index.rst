@@ -1,15 +1,13 @@
-$project
+Bozzz RedBot
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+My Small Fork of the Red Discord Bot
 
-Look how easy it is to use:
+DISCLAIMER
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
+   I do not own the Red Discord Bot,
+   all credit goes to https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
+   
 Features
 --------
 
@@ -19,7 +17,7 @@ Features
 Installation
 ------------
 
-Install $project by visiting:
+Install Red by visiting:
 
     https://github.com/Cog-Creators/Red-DiscordBot
 
