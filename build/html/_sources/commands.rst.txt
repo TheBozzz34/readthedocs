@@ -153,6 +153,8 @@ General Commands:
 
     'strawpoll' Create a StrawPoll in seconds!
 
+    'covid' Global and Country Covid-19 Statistics
+
 
 
 Image Commands:
