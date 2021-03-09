@@ -7,7 +7,7 @@ DISCLAIMER
 
    I do not own the Red Discord Bot,
    all credit goes to the contributors_
-   
+
 .. _contributors: https://github.com/Cog-Creators/Red-DiscordBot/graphs/contributors
 
 Features
@@ -31,7 +31,7 @@ Commands
 
 --------
 
-Commands can be accessed here_
+    Commands can be accessed here_
 
 .. _here: https://bozzzredbot.readthedocs.io/en/latest/commands.html
 
