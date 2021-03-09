@@ -155,6 +155,8 @@ General Commands:
 
     'covid' Global and Country Covid-19 Statistics
 
+    'weather' Get weather statistics from around the world.
+
 
 
 Image Commands:
