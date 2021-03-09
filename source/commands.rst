@@ -116,7 +116,6 @@ Economy Commands:
 
     'leaderboard' Print the leaderboard.
 
-
     'payday' Get some free currency.
 
     'payouts' Show the payouts for the slot machine.
@@ -165,7 +164,7 @@ Image Commands:
 Leveling Commands:
 
 
-    lvlinfo Gives more specific details about user profile image.
+    'lvlinfo' Gives more specific details about user profile image.
 
     'profile' Displays a user profile.
 
