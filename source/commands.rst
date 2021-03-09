@@ -151,6 +151,8 @@ General Commands:
 
     'akinator' Answer Akinator's question and get challenged!
 
+    'strawpoll' Create a StrawPoll in seconds!
+
 
 
 Image Commands:
