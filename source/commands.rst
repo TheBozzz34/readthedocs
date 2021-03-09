@@ -149,6 +149,8 @@ General Commands:
 
     'trivia' Start trivia session on the specified category.
 
+    'akinator' Answer Akinator's question and get challenged!
+
 
 
 Image Commands:
