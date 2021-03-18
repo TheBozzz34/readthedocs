@@ -11,17 +11,9 @@ Utility Commands:
 
     'contact' Sends a message to the owner.
 
-    'dm' Sends a DM to a user.
+    'info' Shows info about Snow.
 
-    'info' Shows info about Wall-E.
-
-    'invite' Shows Wall-E's invite url.
-
-    'licenseinfo' Get info about Red's licenses.
-
-    'mydata' Commands which interact with the data Wall-E has about you...
-
-    'servers' Lists and allows Wall-E to leave servers.
+    'mydata' Commands which interact with the data Snow has about you...
 
     'uptime' Shows Wall-E's uptime.
 
@@ -177,8 +169,6 @@ Leveling Commands:
     'profile' Displays a user profile.
 
     'rank' Displays the rank of a user.
-
-    'rep' Gives a reputation point to a designated player.
 
     'top' Displays leaderboard.
 
