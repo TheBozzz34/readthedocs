@@ -1,7 +1,5 @@
-Bozzz RedBot
-============
-
-My Small Fork of the Red Discord Bot
+Bozzz Discord Bot
+=================
 
 DISCLAIMER
 
@@ -13,8 +11,8 @@ DISCLAIMER
 Features
 --------
 
-- 30 Cogs
-- Over 190 Commands
+- 40 Cogs
+- Over 200 Commands
 
 Installation
 ------------

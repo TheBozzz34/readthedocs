@@ -1,4 +1,4 @@
-TheBozzz Discord RedBot
+TheBozzz Discord Bot
 =======================
 
 All commands must be preceded by '>'
